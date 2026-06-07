@@ -18,7 +18,7 @@ I bridge the gap between research and production — from training models to shi
 
 - 🔬 Exploring **computer vision**, **NLP**, and **multimodal ML**
 - 🏗️ I don't just study technologies — I implement them in real projects
-- 📈 Currently: **88 contributions** in 2026 and counting
+- 📈 Currently: **96 contributions** in 2026 and counting
 - 🎯 Goal: ML Engineer role where I can solve meaningful problems at scale
 
 ---
@@ -69,7 +69,7 @@ Python  JavaScript  Java  C++  C  PHP
 ## What I'm Working On
 
 - [x] Supervised ML pipelines in production
-- [x] Full-stack Django web apps
+- [x] Full-stack web apps
 - [ ] Deep learning for medical imaging (CNNs, transfer learning)
 - [ ] Multimodal ML — fusing image and text features
 - [ ] MLOps — model deployment, CI/CD, containerization
