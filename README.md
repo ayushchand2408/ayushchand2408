@@ -18,7 +18,7 @@ I bridge the gap between research and production — from training models to shi
 
 - 🔬 Exploring **computer vision**, **NLP**, and **multimodal ML**
 - 🏗️ I don't just study technologies — I implement them in real projects
-- 📈 Currently: **96 contributions** in 2026 and counting
+- 📈 Currently: **97 contributions** in 2026 and counting
 - 🎯 Goal: ML Engineer role where I can solve meaningful problems at scale
 
 ---
