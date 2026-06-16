@@ -79,7 +79,3 @@ Python  JavaScript  Java  C++  C  PHP
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayushchand2408&color=58a6ff&style=flat-square" alt="Profile views" />
-</p>
